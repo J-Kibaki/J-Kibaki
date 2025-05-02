@@ -24,7 +24,7 @@ Welcome to my GitHub! I’m a **Network Operations Center (NOC) Analyst** with *
 
 ### 1. [ELK SIEM for Apache Log Analysis](https://github.com/jkibs/elk-siem)  
 ▶ Detected **brute-force attacks** by parsing Apache logs with Elasticsearch  
-▶ Built **Kibana dashboards** to visualize threat patterns ([Screenshot](#))  
+▶ Built **Kibana dashboards** to visualize threat patterns   
 ▶ Automated alerts with **Python scripts** (reduced false positives by **30%**)  
 
 ### 2. [Zabbix + Grafana Network Monitoring](https://github.com/jkibs/zabbix-monitoring)  
@@ -55,6 +55,6 @@ Welcome to my GitHub! I’m a **Network Operations Center (NOC) Analyst** with *
 ## 📬 Let’s Collaborate!  
 🔗 **LinkedIn:** [www.linkedin.com/in/josephkibaki](https://www.linkedin.com/in/josephkibaki)  
 📧 **Email:** [kibaki.joseph1@gmail.com](mailto:kibaki.joseph1@gmail.com)  
-📞 **Phone:** +254-718-565641  
+ 
 
 > *"Security is a process, not a product."* — Bruce Schneier  
