@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Joseph Kibaki Gachira  
+## 👋 Hi, I'm Joseph Kibaki 
 **`NOC Analyst → SOC Aspirant | ISC2 Certified | SIEM & Threat Hunter`**  
 📍 *Nairobi County, Kenya*  
 
@@ -27,7 +27,7 @@ Welcome to my GitHub! I’m a **Network Operations Center (NOC) Analyst** with *
 ▶ Built **Kibana dashboards** to visualize threat patterns   
 ▶ Automated alerts with **Python scripts** (reduced false positives by **30%**)  
 
-### 2. [Zabbix + Grafana Network Monitoring](https://github.com/jkibs/zabbix-monitoring)  
+### 2. [Zabbix + Grafana Network & Server Monitoring](https://github.com/jkibs/zabbix-monitoring)  
 ▶ Monitored **Cisco/SD-WAN traffic** for anomalies (reduced downtime by **20%**)  
 ▶ Integrated **Grafana** for real-time security event tracking  
 
