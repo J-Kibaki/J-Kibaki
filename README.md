@@ -22,16 +22,16 @@ Welcome to my GitHub! I’m a **Network Operations Center (NOC) Analyst** with *
 
 ## 🔍 Featured Projects  
 
-### 1. [ELK SIEM for Apache Log Analysis](https://github.com/jkibs/elk-siem)  
+### 1. [ELK SIEM for Apache Log Analysis](https://github.com/J-Kibaki/elk-siem)  
 ▶ Detected **brute-force attacks** by parsing Apache logs with Elasticsearch  
 ▶ Built **Kibana dashboards** to visualize threat patterns   
 ▶ Automated alerts with **Python scripts** (reduced false positives by **30%**)  
 
-### 2. [Zabbix + Grafana Network & Server Monitoring](https://github.com/jkibs/zabbix-monitoring)  
+### 2. [Zabbix + Grafana Network & Server Monitoring](https://github.com/J-Kibaki/zabbix-monitoring)  
 ▶ Monitored **Cisco/SD-WAN traffic** for anomalies (reduced downtime by **20%**)  
 ▶ Integrated **Grafana** for real-time security event tracking  
 
-### 3. [Security Automation Scripts](https://github.com/jkibs/security-scripts)  
+### 3. [Security Automation Scripts](https://github.com/J-Kibaki/security-scripts)  
 ▶ **Python** script to correlate Zabbix alerts with AbuseIPDB threat feeds  
 ▶ **Bash** log rotation tool with SHA-256 integrity checks  
 
@@ -47,8 +47,8 @@ Welcome to my GitHub! I’m a **Network Operations Center (NOC) Analyst** with *
 ---
 
 ## 📊 GitHub Stats  
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkibs&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkibs&layout=compact&theme=radical&hide_border=true)  
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Kibaki&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Kibaki&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
