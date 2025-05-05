@@ -27,11 +27,11 @@ Welcome to my GitHub! I’m a **Network Operations Center (NOC) Analyst** with *
 ▶ Built **Kibana dashboards** to visualize threat patterns   
 ▶ Automated alerts with **Python scripts** (reduced false positives by **30%**)  
 
-### 2. [Zabbix + Grafana Network & Server Monitoring](https://github.com/J-Kibaki/zabbix-monitoring)  
+### 2. [Zabbix + Grafana Network & Server Monitoring](https://github.com/J-Kibaki/SOC-Automation-Scripts)  
 ▶ Monitored **Cisco/SD-WAN traffic** for anomalies (reduced downtime by **20%**)  
 ▶ Integrated **Grafana** for real-time security event tracking  
 
-### 3. [Security Automation Scripts](https://github.com/J-Kibaki/security-scripts)  
+### 3. [Security Automation Scripts](https://github.com/J-Kibaki/SOC-Automation-Scripts)
 ▶ **Python** script to correlate Zabbix alerts with AbuseIPDB threat feeds  
 ▶ **Bash** log rotation tool with SHA-256 integrity checks  
 
