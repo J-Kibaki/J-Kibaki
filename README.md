@@ -34,14 +34,21 @@ Welcome to my GitHub! I'm a **Network Operations Center (NOC) Analyst** with **5
 
 ## 🚀 Featured Projects  
 
-### 1. [Zabbix Uptime Analytics Dashboard](https://github.com/J-Kibaki/Zabbix-Uptime-Analytics-Dashboard)  
+### 1. [Dead File Detection Tool](./detect_dead_files.py) 🆕
+▶ **Python-based dead code detector** for identifying unused and orphaned files in repositories  
+▶ **Multi-language support** including Python, JavaScript, Java, C++, Go, and 20+ file types  
+▶ **Smart categorization** of unreferenced, orphaned, and suspicious files with heuristic analysis  
+▶ **CI/CD integration** with JSON output and configurable rules for automated code maintenance  
+▶ **Production-ready** tool with comprehensive documentation and example configurations
+
+### 2. [Zabbix Uptime Analytics Dashboard](https://github.com/J-Kibaki/Zabbix-Uptime-Analytics-Dashboard)  
 ▶ **Production-grade Streamlit application** for comprehensive uptime monitoring and SLA management  
 ▶ **Advanced analytics engine** with adaptive spike detection using Z-score and MAD algorithms  
 ▶ **Automated SLA reporting** with daily uptime calculations pushed back to Zabbix via trapper items  
 ▶ **Cross-host correlation analysis** for identifying infrastructure-wide performance patterns  
 ▶ **Smart caching system** with configurable TTL and auto history/trends switching for optimal performance
 
-### 2. [Infrastructure Automation Suite](https://github.com/J-Kibaki/sre-automation-tools)  
+### 3. [Infrastructure Automation Suite](https://github.com/J-Kibaki/sre-automation-tools)  
 ▶ **Python-based** infrastructure provisioning and configuration management  
 ▶ **Automated remediation** scripts for common NOC incidents (reduced MTTR by **35%**)  
 ▶ **Health check orchestration** with self-healing capabilities  
@@ -103,6 +110,40 @@ Welcome to my GitHub! I'm a **Network Operations Center (NOC) Analyst** with **5
 - **Statistical Analysis**: Cross-host correlation matrices for infrastructure pattern identification
 - **Performance Optimization**: Auto-switching between Zabbix history/trends for optimal query performance
 - **Production Systems**: Deploying enterprise-grade monitoring dashboards with 14-day log retention
+- **Code Quality Automation**: Building dead code detection tools for automated repository maintenance
+
+---
+
+## 🛠️ Repository Tools
+
+### Dead File Detection Tool
+This repository includes a production-ready **Dead File Detection Tool** (`detect_dead_files.py`) that helps maintain clean codebases by identifying unused and orphaned files.
+
+**Key Features:**
+- Multi-language support (Python, JavaScript, Java, C++, Go, and 20+ file types)
+- Smart categorization of unreferenced, orphaned, and suspicious files
+- CI/CD integration with JSON output for automated workflows
+- Configurable ignore patterns and reference detection rules
+
+**Quick Usage:**
+```bash
+# Scan for dead files in current repository
+python3 detect_dead_files.py .
+
+# Generate JSON report for automation
+python3 detect_dead_files.py . --format json
+
+# Use custom configuration
+python3 detect_dead_files.py . --config dead_file_config.json
+```
+
+**Perfect for:**
+- Repository maintenance and cleanup
+- CI/CD pipeline integration
+- Code quality monitoring
+- Pre-commit hooks and automated checks
+
+See [DEAD_FILE_DETECTOR.md](./DEAD_FILE_DETECTOR.md) for comprehensive documentation and integration examples.
 
 ---
 
