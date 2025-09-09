@@ -114,39 +114,6 @@ Welcome to my GitHub! I'm a **Network Operations Center (NOC) Analyst** with **5
 
 ---
 
-## 🛠️ Repository Tools
-
-### Dead File Detection Tool
-This repository includes a production-ready **Dead File Detection Tool** (`detect_dead_files.py`) that helps maintain clean codebases by identifying unused and orphaned files.
-
-**Key Features:**
-- Multi-language support (Python, JavaScript, Java, C++, Go, and 20+ file types)
-- Smart categorization of unreferenced, orphaned, and suspicious files
-- CI/CD integration with JSON output for automated workflows
-- Configurable ignore patterns and reference detection rules
-
-**Quick Usage:**
-```bash
-# Scan for dead files in current repository
-python3 detect_dead_files.py .
-
-# Generate JSON report for automation
-python3 detect_dead_files.py . --format json
-
-# Use custom configuration
-python3 detect_dead_files.py . --config dead_file_config.json
-```
-
-**Perfect for:**
-- Repository maintenance and cleanup
-- CI/CD pipeline integration
-- Code quality monitoring
-- Pre-commit hooks and automated checks
-
-See [DEAD_FILE_DETECTOR.md](./DEAD_FILE_DETECTOR.md) for comprehensive documentation and integration examples.
-
----
-
 ## 🤝 Let's Connect & Collaborate!  
 
 I'm passionate about **advanced observability engineering**, **statistical monitoring algorithms**, and **production-grade SLA systems**. Whether you're interested in anomaly detection, automated uptime reporting, or building enterprise monitoring dashboards, I'd love to share insights and collaborate!
