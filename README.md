@@ -34,21 +34,14 @@ Welcome to my GitHub! I'm a **Network Operations Center (NOC) Analyst** with **5
 
 ## 🚀 Featured Projects  
 
-### 1. [Dead File Detection Tool](./detect_dead_files.py) 🆕
-▶ **Python-based dead code detector** for identifying unused and orphaned files in repositories  
-▶ **Multi-language support** including Python, JavaScript, Java, C++, Go, and 20+ file types  
-▶ **Smart categorization** of unreferenced, orphaned, and suspicious files with heuristic analysis  
-▶ **CI/CD integration** with JSON output and configurable rules for automated code maintenance  
-▶ **Production-ready** tool with comprehensive documentation and example configurations
-
-### 2. [Zabbix Uptime Analytics Dashboard](https://github.com/J-Kibaki/Zabbix-Uptime-Analytics-Dashboard)  
+### 1. [Zabbix Uptime Analytics Dashboard](https://github.com/J-Kibaki/Zabbix-Uptime-Analytics-Dashboard)  
 ▶ **Production-grade Streamlit application** for comprehensive uptime monitoring and SLA management  
 ▶ **Advanced analytics engine** with adaptive spike detection using Z-score and MAD algorithms  
 ▶ **Automated SLA reporting** with daily uptime calculations pushed back to Zabbix via trapper items  
 ▶ **Cross-host correlation analysis** for identifying infrastructure-wide performance patterns  
 ▶ **Smart caching system** with configurable TTL and auto history/trends switching for optimal performance
 
-### 3. [Infrastructure Automation Suite](https://github.com/J-Kibaki/sre-automation-tools)  
+### 2. [Infrastructure Automation Suite](https://github.com/J-Kibaki/sre-automation-tools)  
 ▶ **Python-based** infrastructure provisioning and configuration management  
 ▶ **Automated remediation** scripts for common NOC incidents (reduced MTTR by **35%**)  
 ▶ **Health check orchestration** with self-healing capabilities  
@@ -89,10 +82,11 @@ Welcome to my GitHub! I'm a **Network Operations Center (NOC) Analyst** with **5
 
 ---
 
-## 📈 GitHub Analytics  
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  
+
 ![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Kibaki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Kibaki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
@@ -100,7 +94,6 @@ Welcome to my GitHub! I'm a **Network Operations Center (NOC) Analyst** with **5
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-Kibaki&theme=tokyonight&hide_border=true)
 
 </div>
-
 ---
 
 ## 🌟 Current Learning Path & Key Projects
@@ -120,7 +113,6 @@ I'm passionate about **advanced observability engineering**, **statistical monit
 
 🔗 **LinkedIn:** [josephkibaki](https://www.linkedin.com/in/josephkibaki)  
 📧 **Email:** [kibaki.joseph1@gmail.com](mailto:kibaki.joseph1@gmail.com)  
-🐦 **Twitter:** [@J_Kibaki](https://twitter.com/J_Kibaki)  
 💬 **Open to:** Mentoring, Knowledge Sharing, SRE Discussions
 
 ---
