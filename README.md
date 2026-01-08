@@ -81,20 +81,20 @@ Welcome to my GitHub! I'm a **Network Operations Center (NOC) Analyst** with **5
 | **AWS Solutions Architect** | ![AWS](https://img.shields.io/badge/AWS_SAA-FF9900?logo=amazonaws&logoColor=white) | 🎯 In Progress |
 
 ---
-
-
 ## 📈 GitHub Analytics
 <div align="center">
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Kibaki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile)
+<!-- Stats + Languages via alternative mirror -->
+![Joseph's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=J-Kibaki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&cache_seconds=7200)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Kibaki&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=360)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=J-Kibaki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-Kibaki&theme=tokyonight&hide_border=true)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=J-Kibaki&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)
+<!-- Contribution heatmap fallback (lightweight PNG) -->
+![Contribution Graph](https://ghchart.rshah.org/2d82ff/J-Kibaki)
 
 </div>
+
 
 
 ## 🌟 Current Learning Path & Key Projects
