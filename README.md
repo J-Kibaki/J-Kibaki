@@ -32,34 +32,34 @@ Welcome to my GitHub! I'm a **Network Operations Center (NOC) Analyst** with **5
 
 ---
 
-## 🚀 Featured Projects  
+---
 
-### 1. [Zabbix Uptime Analytics Dashboard](https://github.com/J-Kibaki/Zabbix-Uptime-Analytics-Dashboard)  
-▶ **Production-grade Streamlit application** for comprehensive uptime monitoring and SLA management  
-▶ **Advanced analytics engine** with adaptive spike detection using Z-score and MAD algorithms  
-▶ **Automated SLA reporting** with daily uptime calculations pushed back to Zabbix via trapper items  
-▶ **Cross-host correlation analysis** for identifying infrastructure-wide performance patterns  
-▶ **Smart caching system** with configurable TTL and auto history/trends switching for optimal performance
+## 🚀 Spotlight Projects (Recent)
+### DockMaster-RHEL
+- **Docker roadmap for RHEL** environments: secure installs, SELinux considerations, and hardened defaults
+- Covers **images, networking, storage, logging**, and baseline **CI/CD** patterns
+- Practical checklists and commands for **ops-ready** RHEL container setups
 
-### 2. [Infrastructure Automation Suite](https://github.com/J-Kibaki/sre-automation-tools)  
-▶ **Python-based** infrastructure provisioning and configuration management  
-▶ **Automated remediation** scripts for common NOC incidents (reduced MTTR by **35%**)  
-▶ **Health check orchestration** with self-healing capabilities  
-▶ **Compliance monitoring** with automated security posture assessments
+### KenyaTrade-Insights
+- **Trade analytics** and **import recommendation** insights for the Kenyan market
+- Data exploration, visualization, and **signal extraction** for decision support
+- Modular notebooks/pipelines for reproducible analysis
 
-### 3. [Network Performance Analytics](https://github.com/J-Kibaki/network-observability)  
-▶ **Real-time network telemetry** collection from Cisco and SD-WAN infrastructure  
-▶ **Predictive analytics** for capacity planning and anomaly detection  
-▶ **Integration** with threat intelligence feeds for security-aware monitoring  
-▶ **Custom Grafana panels** for executive-level reporting
+### OpsPrep-AI
+- **DevOps/SRE interview prep kit** with curated Q&A, scenarios, and checklists
+- Focus on **observability, reliability, automation**, and incident playbooks
+- AI-augmented notes for faster review and retention
 
-### 4. [SRE Toolkit & Runbooks](https://github.com/J-Kibaki/sre-runbooks)  
-▶ **Incident response automation** with Slack/Teams integration  
-▶ **Post-incident analysis** templates and blameless culture documentation  
-▶ **Chaos engineering** experiments for system resilience testing  
-▶ **Toil identification** and elimination tracking
+### Dead File Detection Tool
+- Python-based detector for **unused/orphaned files** across 20+ file types
+- CI-friendly JSON output, configurable rules, and heuristics for suspicious files
+
+### Zabbix Uptime Analytics Dashboard
+- Streamlit uptime/SLA analytics with **Z-score + MAD** spike detection
+- Pushes **SLA reports** back to Zabbix; smart caching and history/trends auto-switching
 
 ---
+
 
 ## 📊 SRE Metrics & Achievements
 - **99.8%** average uptime across monitored services (tracked via custom Zabbix analytics)
